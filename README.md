@@ -1,4 +1,4 @@
-cloud-inventory
+openstack-inventory
 ========
 
 #### OpenStack Infrastructure Inventory ####
